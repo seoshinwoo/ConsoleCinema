@@ -1,0 +1,14 @@
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/bin/Debug/net8.0/ConsoleCinema
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/bin/Debug/net8.0/ConsoleCinema.deps.json
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/bin/Debug/net8.0/ConsoleCinema.runtimeconfig.json
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/bin/Debug/net8.0/ConsoleCinema.dll
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/bin/Debug/net8.0/ConsoleCinema.pdb
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.AssemblyInfoInputs.cache
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.AssemblyInfo.cs
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.csproj.CoreCompileInputs.cache
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.dll
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/refint/ConsoleCinema.dll
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.pdb
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ConsoleCinema.genruntimeconfig.cache
+/Users/shinwoo/Documents/CODE/C#/ConsoleCinema/obj/Debug/net8.0/ref/ConsoleCinema.dll
